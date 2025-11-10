@@ -1,0 +1,4 @@
+claim_id,patient_id,diagnosis_code,treatment_code,claim_amount,claim_status,service_date,last_updated
+5001,101,I10,T100,8500,Approved,2025-10-10,2025-10-12
+5002,102,E11,T200,12000,Pending,2025-10-10,2025-10-12
+5003,103,J45,T150,6500,Rejected,2025-10-10,2025-10-12
